@@ -1,0 +1,20 @@
+body {
+	
+}
+.animal {
+	border-color:  red;
+	padding: 15px;
+    margin: 10px 5px 10px 5px;
+}
+.animalImage {
+	width: 200px;
+	height: 200px;
+	border: 2px solid red;
+}
+
+.species {
+	margin-right: 10px;
+	float: left;
+}
+
+
